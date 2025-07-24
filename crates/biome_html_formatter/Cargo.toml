@@ -51,3 +51,4 @@ workspace = true
 [[bench]]
 harness = false
 name    = "html_formatter"
+

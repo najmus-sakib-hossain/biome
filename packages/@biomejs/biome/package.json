@@ -1,6 +1,6 @@
 {
-  "name": "@biomejs/biome",
-  "version": "2.1.2",
+  "name": "the-super-blazing-fast-linter-and-formatter",
+  "version": "5.0.5",
   "bin": {
     "biome": "bin/biome"
   },
